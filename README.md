@@ -3,7 +3,7 @@ Hamdi's Portfolio
 Welcome to my personal portfolio
 I'm Hamdi , a beginner software developer currently learning how to turn ideas into real websites and applications.
 
-This portfolio is one of my first projects, built as a part of my journey into software development. I'ts still growing and changing as I learn new things - so consider this version 1.0 of the journey.
+This portfolio is one of my first projects, built as part of my journey into software development. It's still growing and changing as I learn new things, so consider this version 1.0 of the journey.
 
 What's Inside?
 You'll find:
@@ -14,7 +14,7 @@ You'll find:
 
 Built With
 This project currently uses:
-HTML-For the sructure
+HTML-For the structure
 CSS-For styling 
 As I learn more this list will definitely grow.
 
